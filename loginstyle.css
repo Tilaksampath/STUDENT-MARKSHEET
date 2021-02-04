@@ -1,0 +1,28 @@
+body{
+    font-family: 'Roboto Slab', serif;
+    background-image: url(Hydrangeas.jpg);
+    background-repeat: no-repeat;  
+    height: 645px; 
+}
+
+table{
+    top: 50%;
+    table-layout: fixed;
+    margin-left: 300px;
+    height:500px;
+    width: 400px;
+    background-image: linear-gradient(to bottom, rgb(255, 255, 255), rgb(88, 88, 88));
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    opacity: 0.8;
+    border-radius: 10px;
+}
+input{
+    width: 90%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+}

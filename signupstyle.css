@@ -1,0 +1,30 @@
+body{
+    background-image: url("Desert.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    font-family: 'Crimson Text', serif;
+}
+
+
+table{
+    border-style:;
+    top: 50%;
+    table-layout: fixed;
+    margin-left: 700px;
+    height:550px;
+    width: 500px;
+    background-image: linear-gradient(to bottom, rgb(94, 127, 155), rgb(103, 207, 120));
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    opacity: 0.8;
+    border-radius: 10px;
+}
+input{
+    width: 90%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+}
